@@ -22,8 +22,8 @@ Visual components and Python
 
 ## Program
 ``` 
-  DEVELOPED BY : PREETHI D
-  REGISTER NO : 212224040250
+  DEVELOPED BY : NITHYASREE S
+  REGISTER NO : 212224040225
   
   arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
   ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
